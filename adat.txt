@@ -1,9 +1,0 @@
-<html>
-
-<p>
-alma
-körte
-barack
-szilva
-</p>
-</html>
